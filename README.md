@@ -6,6 +6,6 @@ Tech Stack of this game:
 - Javascript
 - HTML/CSS
 
-Future Scope:
-    - The user inteface design can be increased.
+Future Scope: \
+    - The user inteface design can be increased.\
     - Database can be added to track the user score.
