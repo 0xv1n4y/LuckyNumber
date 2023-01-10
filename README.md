@@ -1,6 +1,6 @@
 # LuckyNumber
 
-live at:[Picture Gallery] {https://0xv1n4y.github.io/LuckyNumber/}
+live at:[Picture Gallery](https://0xv1n4y.github.io/LuckyNumber/)
 
 This is a simple toy game, which is a random number guesser.
 
